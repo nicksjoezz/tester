@@ -3,9 +3,9 @@
 ## Summary Table
 |    | Symbol   |   Num Trades |   Win Rate |   Total Profit % |   Avg Profit % |
 |---:|:---------|-------------:|-----------:|-----------------:|---------------:|
-|  0 | AAPL     |           66 |   0.227273 |        -5.1821   |     -0.0785167 |
-|  1 | NVDA     |           76 |   0.381579 |         0.864735 |      0.0113781 |
-|  2 | QQQ      |           76 |   0.328947 |        -4.59257  |     -0.0612342 |
+|  0 | AAPL     |           66 |   0.227273 |         -5.1821  |     -0.0785167 |
+|  1 | NVDA     |           73 |   0.383562 |          2.11831 |      0.029018  |
+|  2 | QQQ      |           76 |   0.328947 |         -4.59257 |     -0.0612342 |
 
 ## Detailed Analysis
 ### AAPL
@@ -24,10 +24,10 @@
 | short  | 2026-03-06 14:35:00+00:00 |       255.06  | 2026-03-06 15:00:00+00:00 |      256.1   | -0.00407751  |
 
 ### NVDA
-- **Number of Trades**: 76
-- **Win Rate**: 38.16%
-- **Total Return**: 0.86%
-- **Average Return Per Trade**: 0.01%
+- **Number of Trades**: 73
+- **Win Rate**: 38.36%
+- **Total Return**: 2.12%
+- **Average Return Per Trade**: 0.03%
 
 #### Last 5 Trades
 | type   | entry_time                |   entry_price | exit_time                 |   exit_price |      profit |
